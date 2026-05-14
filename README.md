@@ -1,5 +1,16 @@
 # 👋 Hola, soy Gabriel
+🎓 **Lic. en Informática** — UADE (Universidad Argentina de la Empresa)
 
+## 🌍 Idiomas
+
+- **Español** — Nativo
+- **English** — Fluent (daily calls, meetings, technical communication) ✅
+## 📫 Conectá conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmazzitelli/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmazzitelli86@gmail.com)
+
+  
 **Database Administrator & Data Engineer**  
 Buenos Aires, Argentina 🇦🇷
 
@@ -42,19 +53,7 @@ Especializado en optimización y arquitectura de datos.
 ### 📋 Metodologías & Herramientas
 - **Agile / Scrum** — Metodologías de trabajo
 - **Jira, Notion** — Gestión de proyectos
-
 ---
-
-## 📂 Qué encontrarás aquí
-
-Este repositorio es mi **profile README**. Mis proyectos principales están en otros repos:
-
-- **buscador_cine_v4** — Bot de Telegram que scrape listados de cines argentinos (Cinemark, Showcase, Multiplex). Implementa Playwright para scraping dinámico, categorización y deduplicación.
-- **SQL Server Scripts** — Optimizaciones, monitoring, query tuning, best practices para producción.
-- **Python Utilities** — Herramientas de análisis de datos, scripts, automatización.
-
----
-
 ## 💼 Experiencia Profesional
 
 **10+ años en banking, fintech, pharma, AI/SaaS, F&B:**
@@ -62,21 +61,15 @@ Este repositorio es mi **profile README**. Mis proyectos principales están en o
 - Gestión integral de infraestructura de datos en producción
 - Transición activa hacia modern data engineering (cloud-native)
 
-🎓 **Lic. en Informática** — UADE (Universidad Argentina de la Empresa)
+
 
 ---
 
-## 🌍 Idiomas
 
-- **Español** — Nativo
-- **English** — Fluent (daily calls, meetings, technical communication) ✅
 
 ---
 
-## 📫 Conectá conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmazzitelli/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmazzitelli86@gmail.com)
 
 ---
 
