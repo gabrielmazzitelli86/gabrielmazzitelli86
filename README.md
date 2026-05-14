@@ -1,49 +1,96 @@
 # 👋 Hola, soy Gabriel
 
-Trabajo con **datos**, **bases de datos** y **desarrollo**. Técnico electrónico / hobbista.
+**Database Administrator & Data Engineer**  
+Buenos Aires, Argentina 🇦🇷
 
-### 🔧 Con qué trabajo
-
-- **Bases de datos:** SQL Server, MySQL, Azure SQL
-- **Lenguajes:** Python, C++, T-SQL, PowerShell
-- **Data:** ETL, análisis, optimización de queries
-- **Cloud:** Azure (y un poco de AWS/GCP)
-- **Electrónica:** proyectos con Arduino, ESP32, sensores
+10+ años en **SQL Server DBA** | 3+ años en **Azure SQL & cloud data engineering**  
+Especializado en optimización y arquitectura de datos.
 
 ---
 
-### 💻 My Skills Include
+## 🔧 Con qué trabajo
 
-**Languages**
+### 📊 Bases de Datos
+- **SQL Server** — DBA senior: monitoreo, optimización, backups, replicación, disaster recovery
+- **Azure SQL** — Migración, performance tuning, elastic pools, managed backups
+- **MySQL** — Desarrollo e infraestructura
+- **PostgreSQL** — Manejo intermedio, queries, administración
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### 🔀 Data Engineering
+- **Análisis & Optimización** — T-SQL avanzado, Python, modelado dimensional, data warehousing
+- **Ingestion** — Web scraping, APIs, transformación de datos complejos
 
-**Other Tools and Technologies**
+### 💻 Lenguajes & Herramientas
+- **T-SQL** — Queries complejas, stored procedures, window functions, performance tuning
+- **Python** — pandas, requests, Playwright, scripts de automatización
+- **PowerShell** — Scripting de admin tasks, automatización Windows
+- **C++** — Proyectos electrónicos
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-239120?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+### ☁️ Cloud & DevOps
+- **Azure** — SQL Database, Storage Accounts, managed services
+- **AWS / GCP** — Exploratorio
+- **Git** — Control de versiones, workflows
+- **CI/CD** — GitHub Actions, deployment automation
+
+### 🤖 Electrónica (hobby)
+- **Arduino, ESP32** — Sensores, IoT, proyectos embebidos
+
+### 🌐 Redes & IT
+- **Curso CCNA** (2009-2010) — Networking, TCP/IP, routing, switching, VLANs, security
+- **Soporte Técnico** — Diagnóstico y reparación de PCs, troubleshooting, optimización
+
+### 📋 Metodologías & Herramientas
+- **Agile / Scrum** — Metodologías de trabajo
+- **Jira, Notion** — Gestión de proyectos
 
 ---
 
-### 📂 Qué vas a encontrar acá
+## 📂 Qué encontrarás aquí
 
-Proyectos personales, experimentos con datos, scripts útiles, proyectos de electrónica y cosas que voy aprendiendo.
+Este repositorio es mi **profile README**. Mis proyectos principales están en otros repos:
+
+- **buscador_cine_v4** — Bot de Telegram que scrape listados de cines argentinos (Cinemark, Showcase, Multiplex). Implementa Playwright para scraping dinámico, categorización y deduplicación.
+- **SQL Server Scripts** — Optimizaciones, monitoring, query tuning, best practices para producción.
+- **Python Utilities** — Herramientas de análisis de datos, scripts, automatización.
 
 ---
 
-### 📫 Check out my Social Media
+## 💼 Experiencia Profesional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmazzitelli/)
+**10+ años en banking, fintech, pharma, AI/SaaS, F&B:**
+- Capgemini, Accenture, JPMorgan Chase, AutoScheduler.AI, Cognizant, IBM, y otros
+- Gestión integral de infraestructura de datos en producción
+- Transición activa hacia modern data engineering (cloud-native)
+
+🎓 **Lic. en Informática** — UADE (Universidad Argentina de la Empresa)
+
+---
+
+## 🌍 Idiomas
+
+- **Español** — Nativo
+- **English** — Fluent (daily calls, meetings, technical communication) ✅
+
+---
+
+## 📫 Conectá conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmazzitelli/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielmazzitelli86@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmazzitelli86&show_icons=true&theme=dark)
+
+---
+
+### ✨ Principios
+
+- **Precisión sobre cobertura** — Prefiero destacar lo que domino antes que listar skills genéricas
+- **Pragmatismo** — Soluciones funcionales > teoría compleja  
+- **Iteración rápida** — Aprender haciendo, feedback inmediato
+- **Código limpio** — Legibilidad, mantenibilidad, documentación
+
+> _"Vieja escuela en SQL Server, modernizándose hacia cloud-native data engineering."_
